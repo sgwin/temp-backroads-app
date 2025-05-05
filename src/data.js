@@ -46,7 +46,7 @@ export const tours = [
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'china',
     duration: '6 days',
-    price: '$2100',
+    price: '2100',
   },
   {
     id: 2,
@@ -56,7 +56,7 @@ export const tours = [
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'indonesia',
     duration: '11 days',
-    price: '$1400',
+    price: '1400',
   },
   {
     id: 3,
@@ -66,7 +66,7 @@ export const tours = [
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'indonesia',
     duration: '11 days',
-    price: '$1400',
+    price: '1400',
   },
   {
     id: 4,
@@ -76,6 +76,6 @@ export const tours = [
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'canada',
     duration: '13 days',
-    price: '$2600',
+    price: '2600',
   },
 ]
